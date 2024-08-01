@@ -1,0 +1,6 @@
+node_modules
+out
+*.vsix
+*.lock
+package-lock.json
+*.mov
